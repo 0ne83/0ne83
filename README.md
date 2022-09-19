@@ -15,7 +15,7 @@ class ComputerEngineer:
     def __init__(self):
         self.name = "Ahmed Ibraim"
         self.role = "Student/Coder"
-        se.f.uni = "Bilkent University"
+        se.f.uni = "Bilkent University Freshman"
         self.language_spoken = ["ar_AR", "en_US"]
 
     def say_hi(self):
