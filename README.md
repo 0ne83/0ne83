@@ -50,5 +50,3 @@ me.say_hi()
 ## Contact
 - [tansikegypt.com](https://tansikegypt.com)
 - [@hamadaies](https://twitter.com/hamadaies) on Twitter
-- [@martonlederer](https://twitter.com/instagram) on Instagram
-- [Marton#6513](./) on Discord
