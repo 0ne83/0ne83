@@ -3,29 +3,6 @@
   <img src="https://raw.githubusercontent.com/0ne83/One83/main/name.svg" alt="Ahmed Ibrahim" />
 </h1>
 
-# Hello there 👋
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class ComputerEngineer:
-
-    def __init__(self):
-        self.name = "Ahmed Ibraim"
-        self.role = "Student/Coder"
-        se.f.uni = "Bilkent University Freshman"
-        self.language_spoken = ["ar_AR", "en_US"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = ComputerEngineer()
-me.say_hi()
-```
-
 ## 📝 Blogs
 
 - website and blog: https://tansikegypt.com
