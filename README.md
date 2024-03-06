@@ -1,5 +1,4 @@
 <h1 align="center">
-  
   <img src="https://raw.githubusercontent.com/0ne83/One83/main/name.svg" alt="Ahmed Ibrahim" />
 </h1>
 
@@ -20,10 +19,9 @@
 
 
 ## Skills
-- 👨‍💻 Java, Pyhton, Swift
-- ⚙️ React, Shell, Bash
-- 👁️ CSS, Stylus
-- 💽 MySQL
+- 👨‍💻 C++, Java, Python, Swift, Objective-C, Javascript, ARM, Intel X86, Mips, SystemVerilog
+- ⚙️ Flutter, React, Shell, Bash, Powershell, Vue.js, Django, Node
+- 💽 SQL
 
 ## Contact
 - [tansikegypt.com](https://tansikegypt.com)
