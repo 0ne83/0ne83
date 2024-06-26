@@ -18,8 +18,8 @@
 
 
 ## Skills
-- 👨‍💻 C++, Java, Python, Swift, Objective-C, Javascript, ARM, Intel X86, Mips, SystemVerilog
-- ⚙️ Flutter, React, Shell, Bash, Powershell, Vue.js, Django, Node
+- 👨‍💻 C++, Bash, Java, Python, Javascript, Mips, ARM, SystemVerilog/Verilog, Swift, Objective-C, PHP
+- ⚙️ Flutter, React, Shell, Powershell, Vue.js, Django, Node
 - 💽 SQL
 
 ## Contact
