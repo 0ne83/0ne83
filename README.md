@@ -4,7 +4,8 @@
 
 ## 📝 Blogs
 
-- website and blog: https://tansikegypt.com
+- Website:
+- Blogs: 
 
 
 ## 🔧 Technologies & Tools
@@ -18,10 +19,9 @@
 
 
 ## Skills
-- 👨‍💻 C++, Bash, Java, Python, Javascript, Mips, ARM, SystemVerilog/Verilog, Swift, Objective-C, PHP
-- ⚙️ Flutter, React, Shell, Powershell, Vue.js, Django, Node
-- 💽 SQL
+- 👨‍💻 C++, C, Bash, Java, Python, Javascript, Mips, ARM, SystemVerilog/Verilog, Swift, PHP
+- ⚙️ Flutter, React, Shell, Powershell, Vue.js, Django, Node, Neovim
+- 💽 SQL, NoSql
 
 ## Contact
-- [tansikegypt.com](https://tansikegypt.com)
 - [@hamadaies](https://twitter.com/hamadaies) on Twitter
